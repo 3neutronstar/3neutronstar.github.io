@@ -77,6 +77,7 @@ B.S. in Electronic Engineering
 
 More details are in my [CV](https://drive.google.com/file/d/1z04-r7CqADjicDNpIej-xMTBRWx4PyeR/view?usp=sharing).
 
+<br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2F3neutronstar.gitub.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--- ## Books for Study
 [List](https://www.notion.so/Books-2a4ee1af56974047a111ba7aba54b661)
 
