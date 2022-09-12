@@ -14,7 +14,7 @@ My previous research has been focused on a real-world applicable method by utili
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko) -->
 [[github]](https://github.com/3neutronstar/)
 [[cv]](https://drive.google.com/file/d/1z04-r7CqADjicDNpIej-xMTBRWx4PyeR/view?usp=sharing)
-
+[[LinkedIn]](https://www.linkedin.com/in/minsoo-kang-4a97291b9/) <br>
 Contact: minsoo.kang0918 [at] gmail.com
 
 
