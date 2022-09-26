@@ -4,6 +4,8 @@ author: Minsoo Kang
 date: 2022-07-26 00:34:00 +0900
 categories: [Paper Review, Debiasing]
 tags: [NeurIPS 2021, Paper Review, Debiasing]
+math: true
+comments: true
 ---
 
 이번에는 NeurIPS 2021에 accept 된 Kaist와 Kakao의 Learning Debiased Representation via Disentangled Feature Augmentation 리뷰하려고 합니다. 자세한 내용은 [원문](https://arxiv.org/pdf/2107.01372)을 참고해주세요. 
