@@ -26,12 +26,12 @@ Deep Learning, Data Augmentation, Model Debiasing, and Continual Learning
 ## Education
 ---
 #### **Korea University, Seoul, Korea**
-M.S. in Department of Artificial Intelligence
-<br>2022 - Present
+M.S. in Department of Artificial Intelligence (4.38 / 4.5)
+<br>2022 - Present.
 
 #### **Soongsil University, Seoul, Korea**
-B.S. in Electronic Engineering
-<br>2012 - 2016 (*Summa Cum Laude*, 1/123)
+B.S. in Electronic Engineering (4.30 / 4.5)
+<br>2016 - 2022. (*Summa Cum Laude*, 1/123)
 
 
 ## Publications
