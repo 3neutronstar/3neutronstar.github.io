@@ -36,9 +36,12 @@ B.S. in Electronic Engineering
 
 ## Publications
 ---
-<!-- #### **International**
+#### **International**
+<br> GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps
+<br> **Minsoo Kang**, Suhun Kim
+<br> AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
-#### **Domestic** -->
+#### **Domestic**
 <br>**Search Algorithm for Genetic Variants that Increases the Effectiveness of Patient Treatment using Reinforcement Learning and Proportional Hazards Model**
 <br>Minkoo Kang, **Minsoo Kang**, Dongjin Kim, Suhun Kim
 <br>The Journal of Korean Institute of Next Generation Computing (KINGPC, KCI), 2022.
