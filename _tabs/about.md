@@ -37,7 +37,7 @@ B.S. in Electronic Engineering (4.30 / 4.5)
 ## Publications
 ---
 #### **International**
-<br> GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps
+<br> **GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps**
 <br> **Minsoo Kang**, Suhun Kim
 <br> AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
