@@ -21,7 +21,7 @@ Contact: minsoo.kang0918 [at] gmail.com
 
 ## Research Interest
 ---
-Deep Learning, Data Augmentation, Model Debiasing, and Continual Learning 
+Deep Learning, Data Augmentation, Debiasing Representation, and Continual Learning 
 
 ## Education
 ---
@@ -39,7 +39,7 @@ B.S. in Electronic Engineering (4.30 / 4.5)
 ### **International**
 <br> **GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps**
 <br> **Minsoo Kang**, Suhun Kim
-<br> AAAI Conference on Artificial Intelligence (AAAI), 2023.
+<br> Association for the Advancement of Artificial Intelligence (AAAI), 2023.
 
 ---
 ### **Domestic**
@@ -62,11 +62,11 @@ B.S. in Electronic Engineering (4.30 / 4.5)
 ## Experience
 ---
 <br> Student Researcher, at Center for Artifical Intelligence, KIST
-<br> - Data augmentation and Continual learning 
+<br> - Data augmentation, Debiasing Representation and Continual learning 
 <br> 2022.03 - Present (Adviser: Dr. Suhyun Kim)
 
 <br> Research Intern, at Center for Artifical Intelligence, KIST 
-<br> - Data augmentation and knowledge distillation 
+<br> - Data augmentation and Knowledge Distillation 
 <br> 2021.03 - 2021.12. (Adviser: Dr. Suhyun Kim)
 
 <br> Research Intern, at Department of Smart Data, AI Research Center, ETRI
