@@ -38,13 +38,13 @@ B.S. in Electronic Engineering (4.30 / 4.5)
 ---
 ### **International**
 <br> **GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps**
-<br> **Minsoo Kang**, Suhun Kim
-<br> Association for the Advancement of Artificial Intelligence (AAAI), 2023.
+<br> **Minsoo Kang**, Suhyun Kim
+<br> Association for the Advancement of Artificial Intelligence (AAAI), 2023. [[code]](https://github.com/3neutronstar/GuidedMixup/)
 
 ---
 ### **Domestic**
 <br>**Search Algorithm for Genetic Variants that Increases the Effectiveness of Patient Treatment using Reinforcement Learning and Proportional Hazards Model**
-<br>Minkoo Kang, **Minsoo Kang**, Dongjin Kim, Suhun Kim
+<br>Minkoo Kang, **Minsoo Kang**, Dongjin Kim, Suhyun Kim
 <br>The Journal of Korean Institute of Next Generation Computing (KINGPC, KCI), 2022.
 
 <br>**Local Route Selection and Speed Control of Autonomous Vehicles Based on Decentralized Deep Reinforcement Learning**
