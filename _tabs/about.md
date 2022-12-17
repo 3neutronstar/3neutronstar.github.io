@@ -8,14 +8,14 @@ order: 4
 # Minsoo Kang
 
 I am a M.S student in Department of Articial Intelligence at Korea University advised by Professor [SungHwan Lee](http://pr.korea.ac.kr/), and a student researcher in Center for Artificial Intelligence at KIST co-advised by Senior Researcher [Suhyun Kim](https://kdst.re.kr/) . 
-I am especially interested in debiasing a model which is trained with biased dataset, and data-free continual learning. 
+I am especially interested in debiasing representation, data augmentation, and data-free continual learning. 
 My previous research has been focused on a real-world applicable method by utilizing reinforcement learning. 
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko) -->
 [[github]](https://github.com/3neutronstar/)
 [[cv]](https://drive.google.com/file/d/1z04-r7CqADjicDNpIej-xMTBRWx4PyeR/view?usp=sharing)
 [[LinkedIn]](https://www.linkedin.com/in/minsoo-kang-4a97291b9/) <br>
-Contact: minsoo.kang0918 [at] gmail.com
+Contact: minsoo [dot] kang0918 [at] gmail [dot] com
 
 
 
