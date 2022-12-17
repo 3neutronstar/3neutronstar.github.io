@@ -45,19 +45,19 @@ B.S. in Electronic Engineering (4.30 / 4.5)
 ### **Domestic**
 <br>**Search Algorithm for Genetic Variants that Increases the Effectiveness of Patient Treatment using Reinforcement Learning and Proportional Hazards Model**
 <br>Minkoo Kang, **Minsoo Kang**, Dongjin Kim, Suhyun Kim
-<br>The Journal of Korean Institute of Next Generation Computing (KINGPC, KCI), 2022.
+<br>The Journal of Korean Institute of Next Generation Computing (KINGPC, KCI), 2022. [[code]](https://github.com/3neutronstar/DHP)
 
 <br>**Local Route Selection and Speed Control of Autonomous Vehicles Based on Decentralized Deep Reinforcement Learning**
 <br>**Minsoo Kang**, Ilkyu Yi, Yunsik Jo, Ohsoon Shin
-<br>ICT Express Summer Conference (KICS), 2021. (**Best Paper Award**)
+<br>ICT Express Summer Conference (KICS), 2021. (**Best Paper Award**) [[code]](https://github.com/3neutronstar/sumo-continuous-selfdriving)
 
 <br>**Deep Reinforcement Learning Based Velocity Control for Autonomous Vehicle in Circular Road**
 <br>**Minsoo Kang**, Hyunju Lim, Gihong Lee, Minhae Kwon
-<br>ICT Express Fall Conference (KICS), 2020.
+<br>ICT Express Fall Conference (KICS), 2020. [[code]](https://github.com/3neutronstar/flow_RL)
 
 <br>**Deep Reinforcement Learning Based Autonomous Vehicles for Traffic Flow Control**
 <br>Gihong Lee, Hyunju Lim, **Minsoo Kang**, Minhae Kwon
-<br>ICT Express Fall Conference (KICS), 2020. (**Best Paper Award**)
+<br>ICT Express Fall Conference (KICS), 2020. (**Best Paper Award**) [[code]](https://github.com/3neutronstar/flow_RL)
 
 ## Experience
 ---
