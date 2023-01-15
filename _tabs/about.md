@@ -26,7 +26,7 @@ Deep Learning, Data Augmentation, Debiasing Representation, and Continual Learni
 ## Education
 ---
 #### **Korea University, Seoul, Korea**
-M.S. in Department of Artificial Intelligence (4.38 / 4.5)
+M.S. in Department of Artificial Intelligence (4.43 / 4.5)
 <br>2022 - Present.
 
 #### **Soongsil University, Seoul, Korea**
@@ -39,7 +39,7 @@ B.S. in Electronic Engineering (4.30 / 4.5)
 ### **International**
 <br> **GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps**
 <br> **Minsoo Kang**, Suhyun Kim
-<br> Association for the Advancement of Artificial Intelligence (AAAI, Oral), 2023. [[code]](https://github.com/3neutronstar/GuidedMixup/) [[blog]](https://3neutronstar.github.io/posts/GuidedMixup)
+<br> Association for the Advancement of Artificial Intelligence (AAAI, **Oral**), 2023. [[code]](https://github.com/3neutronstar/GuidedMixup/) [[blog]](https://3neutronstar.github.io/posts/GuidedMixup)
 
 ---
 ### **Domestic**
