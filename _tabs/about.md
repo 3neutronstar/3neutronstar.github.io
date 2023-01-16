@@ -7,7 +7,7 @@ order: 4
 
 # Minsoo Kang
 
-I am a M.S student in Department of Articial Intelligence at Korea University advised by Professor [SungHwan Lee](http://pr.korea.ac.kr/), and a student researcher in Center for Artificial Intelligence at KIST co-advised by Senior Researcher [Suhyun Kim](https://kdst.re.kr/) . 
+I am a M.S student in Department of Articial Intelligence at Korea University advised by Professor [SungWhan Lee](http://ibi.korea.ac.kr/), and a student researcher in Center for Artificial Intelligence at KIST co-advised by Senior Researcher [Suhyun Kim](https://kdst.re.kr/) . 
 I am especially interested in debiasing representation, data augmentation, and data-free continual learning. 
 My previous research has been focused on a real-world applicable method by utilizing reinforcement learning. 
 
