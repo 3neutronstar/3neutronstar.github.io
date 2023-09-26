@@ -39,7 +39,7 @@ B.S. in Electronic Engineering (4.30 / 4.5)
 ### **International**
 <br> **GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps**
 <br> **Minsoo Kang**, Suhyun Kim
-<br> Association for the Advancement of Artificial Intelligence (AAAI, **Oral**), 2023. [[blog]](https://3neutronstar.github.io/posts/GuidedMixup)
+<br> Association for the Advancement of Artificial Intelligence (AAAI, **Oral**), 2023. [[blog]](https://3neutronstar.github.io/posts/GuidedMixup) [[blog]](https://github.com/kdst-team/GuidedMixup)
 
 ---
 ### **Domestic**
