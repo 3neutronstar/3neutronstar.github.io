@@ -8,7 +8,6 @@ math: true
 comments: true
 ---
 
-Coming Soon. (With English Ver.) 
 
 
 </br>
