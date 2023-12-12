@@ -7,9 +7,9 @@ order: 4
 
 # Minsoo Kang
 
-I am a M.S student in Department of Articial Intelligence at Korea University advised by Professor [SungWhan Lee](http://ibi.korea.ac.kr/), and a student researcher in Center for Artificial Intelligence at KIST co-advised by Senior Researcher [Suhyun Kim](https://kdst.re.kr/) . 
-I am especially interested in debiasing representation, data augmentation, and data-free continual learning. 
-My previous research has been focused on a real-world applicable method by utilizing reinforcement learning. 
+I am an M.S. candidate in the Department of Artificial Intelligence at Korea University, advised by Professor [Seong-Whan Lee](http://ibi.korea.ac.kr/), and a student researcher in the Center for Artificial Intelligence at KIST co-advised by Senior Researcher [Suhyun Kim](https://kdst.re.kr/) . 
+I am especially interested in robust model training, such as data augmentation and data-free continual learning. 
+My previous research had focused on a real-world applicable method by utilizing reinforcement learning. 
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=INQVkzcAAAAJ&hl=ko) -->
 [[github]](https://github.com/3neutronstar/)
@@ -37,6 +37,11 @@ B.S. in Electronic Engineering (4.30 / 4.5)
 ## Publications
 ---
 ### **International**
+
+<br> **Catch-up Mix: Catch-up Class for Struggling Filters in CNN**
+<br> **Minsoo Kang\***, Minkoo Kang\*, Suhyun Kim (\*: Equal contribution)
+<br> Association for the Advancement of Artificial Intelligence (AAAI), 2023. [[blog]](https://3neutronstar.github.io/posts/CatchupMix) [[code]](https://github.com/kdst-team/CatchupMix)
+
 <br> **GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps**
 <br> **Minsoo Kang**, Suhyun Kim
 <br> Association for the Advancement of Artificial Intelligence (AAAI, **Oral**), 2023. [[blog]](https://3neutronstar.github.io/posts/GuidedMixup) [[code]](https://github.com/kdst-team/GuidedMixup)
