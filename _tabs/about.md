@@ -40,11 +40,11 @@ B.S. in Electronic Engineering (4.30 / 4.5)
 
 <br> **Catch-up Mix: Catch-up Class for Struggling Filters in CNN**
 <br> **Minsoo Kang\***, Minkoo Kang\*, Suhyun Kim (\*: Equal contribution)
-<br> Association for the Advancement of Artificial Intelligence (AAAI), 2023. [[blog]](https://3neutronstar.github.io/posts/CatchupMix) [[code]](https://github.com/kdst-team/CatchupMix)
+<br> Association for the Advancement of Artificial Intelligence (AAAI), 2023. [[arxiv]](https://arxiv.org/abs/2401.13193) [[blog]](https://3neutronstar.github.io/posts/CatchupMix) [[code]](https://github.com/kdst-team/CatchupMix)
 
 <br> **GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps**
 <br> **Minsoo Kang**, Suhyun Kim
-<br> Association for the Advancement of Artificial Intelligence (AAAI, **Oral**), 2023. [[blog]](https://3neutronstar.github.io/posts/GuidedMixup) [[code]](https://github.com/kdst-team/GuidedMixup)
+<br> Association for the Advancement of Artificial Intelligence (AAAI, **Oral**), 2023. [[arxiv]](https://arxiv.org/abs/2306.16612) [[blog]](https://3neutronstar.github.io/posts/GuidedMixup) [[code]](https://github.com/kdst-team/GuidedMixup)
 
 ---
 ### **Domestic**
