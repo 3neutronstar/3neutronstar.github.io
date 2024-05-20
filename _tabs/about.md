@@ -81,12 +81,12 @@ B.S. in Electronic Engineering (4.30 / 4.5)
 <br> Research Intern, at Department of Smart Data, AI Research Center, ETRI
 <br> - Decentralized deep reinforcement learning based traffic signal control 
 <br> - Traffic flow control with real-world applicable constraints
-<br> 2021.01 - 2021.02. (Adviser: Dr. Munyung Jung)
+<br> 2021.01 - 2021.02. (Adviser: Dr. Munyung Jung) [[code]](https://github.com/3neutronstar/rl-constraints-traffic/)
 
 <br> Research Intern, at BMIL, Soongsil University 
 <br> - Deep reinforcement learning based autonomous driving 
 <br> - Data based velocity and flow control
-<br> 2020.07 - 2020.09. (Adviser: Prof. Minhae Kwon)
+<br> 2020.07 - 2020.09. (Adviser: Prof. Minhae Kwon) [[code]](https://github.com/3neutronstar/flow_RL/)
 
 More details are in my [CV](https://drive.google.com/file/d/1z04-r7CqADjicDNpIej-xMTBRWx4PyeR/view?usp=sharing).
 
