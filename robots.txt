@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: [https://3neutronstar.github.io/sitemap.xml](https://3neutronstar.github.io/sitemap.xml)
